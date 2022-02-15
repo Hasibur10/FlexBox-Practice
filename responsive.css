@@ -1,0 +1,15 @@
+@media (max-width:750px) {
+ .navBar{
+     flex-direction: column;
+ }
+ .menuWrapper{
+     margin: 10px 0;
+ }
+    .navBar .menuWrapper .menu li a{
+        
+        margin:0 10px;
+    }
+    .itemContent h1{
+        font-size: 7vw !important;
+    }
+}
